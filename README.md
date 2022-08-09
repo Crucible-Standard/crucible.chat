@@ -18,6 +18,8 @@ Other Commands for fun:
 * `/wisdom` - Displays a random fortune / quote
 * `/moon` - Displays current moon phase
 
-Privacy Policy 
+<div align="center"> 
+  <a href="/privacy-policy">Privacy Policy</a>
 
-Terms of Use
+  <a href="/terms-of-service">Terms of Use</a>
+</div>
