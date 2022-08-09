@@ -11,6 +11,7 @@
     <li><a href="#processing">Why we collect information about you – purpose of processing</a></li>
     <li><a href="#logs">Log files</a></li>
     <li><a href="#sharing">Data sharing</a></li>
+    <li><a href="#rights">Your rights</a></li>
   </ol>
 </details>
 
