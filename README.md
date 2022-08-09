@@ -8,7 +8,7 @@ This is a simple discord bot that will send a message to a channel in response t
 
 <div align="center"> 
   <a href="/add">
-    <img src="https://img.shields.io/badge/for--the--badge-20232A.svg?logo=discord&logoColor=%7289DA&style=for-the-badge />
+    <img src="https://img.shields.io/badge/Add--To--Discord-20232A.svg?logo=discord&logoColor=%7289DA&style=for-the-badge" />
   </a>
 </div>
 
