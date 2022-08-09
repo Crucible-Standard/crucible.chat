@@ -1,19 +1,17 @@
 # Bot Privacy Policy
 
-
 <details>
-  <summary>Click to expand!</summary>
-
-  <h2>Table of Contents</h2>
+ <summary>Click to expand!</summary>
+ <h2>Table of Contents</h2>
     
-    <ol>
-        <li><a href="#introduction">Introduction</a></li>
-        <li><a href="#information">Information we may collect about you</a></li>
-        <li><a href="#collecting">Collecting, processing and using personal data</a></li>
-        <li><a href="#processing">Why we collect information about you – purpose of processing</a></li>
-        <li><a href="#logs">Log files</a></li>
-        <li><a href="#sharing">Data sharing</a></li>
-    </ol>
+  <ol>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#information">Information we may collect about you</a></li>
+    <li><a href="#collecting">Collecting, processing and using personal data</a></li>
+    <li><a href="#processing">Why we collect information about you – purpose of processing</a></li>
+    <li><a href="#logs">Log files</a></li>
+    <li><a href="#sharing">Data sharing</a></li>
+  </ol>
 </details>
 
 <h2 id="Introduction">1. Introduction</h2>
