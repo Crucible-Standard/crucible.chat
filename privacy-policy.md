@@ -26,14 +26,14 @@ We may make changes to this Privacy Policy in the future. You should check this 
 
 We collect and process the following information which may include your personal data.
 
-Your Discord ID, Discord Username, Discord Server ID & Name, Discord Channel ID & Name, your user preferences as well as all the data you supply to us and information provided by you when using the Service (Discord Dungeons Discord bot).
+Your Discord ID, Discord Username, Discord Server ID & Name, Discord Channel ID & Name, your user preferences as well as all the data you supply to us and information provided by you when using the Service (Crucible Standard's Discord bot).
 
 We do not access or store emails or phone numbers for our Discord bot users.
 
 
 ## 3. Collecting, processing and using personal data
 
-We only store and process your personal data when you have voluntarily supplied us with it such as installing Discord Dungeons on your server or by interacting with it. Your personal data will only be disclosed or otherwise transmitted if this is necessary to implement the contract, render our Services or you have given your prior consent.
+We only store and process your personal data when you have voluntarily supplied us with it such as installing CrucibleBot on your server or by interacting with it. Your personal data will only be disclosed or otherwise transmitted if this is necessary to implement the contract, render our Services or you have given your prior consent.
 
 
 ## 4. Why we collect information about you – purpose of processing
