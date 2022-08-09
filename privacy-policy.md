@@ -1,6 +1,6 @@
 # Bot Privacy Policy
 
-1. Introduction
+## 1. Introduction
 
 This Privacy Policy ("Privacy Policy") apply to the use of the service ("Service", "Bot", "CrucibleBot") provided by The Crucible Standard Organization (hereinafter also referred as “we” or “us”).
 
@@ -22,7 +22,7 @@ The Services may contain links to services owned and operated by third parties. 
 We may make changes to this Privacy Policy in the future. You should check this page from time to time to ensure you are aware of any changes. Where appropriate we may notify you of such changes.
 
 
-2. Information we may collect about you
+## 2. Information we may collect about you
 
 We collect and process the following information which may include your personal data.
 
@@ -31,21 +31,21 @@ Your Discord ID, Discord Username, Discord Server ID & Name, Discord Channel ID 
 We do not access or store emails or phone numbers for our Discord bot users.
 
 
-3. Collecting, processing and using personal data
+## 3. Collecting, processing and using personal data
 
 We only store and process your personal data when you have voluntarily supplied us with it such as installing Discord Dungeons on your server or by interacting with it. Your personal data will only be disclosed or otherwise transmitted if this is necessary to implement the contract, render our Services or you have given your prior consent.
 
 
-4. Why we collect information about you – purpose of processing
+## 4. Why we collect information about you – purpose of processing
 
 We will use information about you for delivering our Services to you under the terms of use agreed between us. The processing of information in this way is necessary for us to provide you the Service properly and to ensure the features function properly so that you have the best Service possible.
 
-5. Log files
+## 5. Log files
 
 During every interaction with the Service, user data is store in protocol files, the so-called log files. The datasets stored here may contain such data as date and time of the interaction, ID and username of the interacting user, the command used, ID and name of the Discord Server in which the interaction took place as well as the ID and name of the Discord Channel the interaction took place in.
 
 
-6. Data sharing
+## 6. Data sharing
 
 We do NOT sell your personal data and we don’t provide it to anyone outside our organisation for any other purpose than the Service you subscribed for.
 
@@ -54,7 +54,7 @@ Personnel, suppliers or subcontractors: We keep your information confidential, b
 Required by law: In addition, we may disclose your information to the extent that we are required to do so by law (which may include to government bodies and law enforcement agencies); in connection with any legal proceedings or prospective legal proceedings; and in order to establish, exercise or defend our legal rights.
 
 
-7. Your rights
+## 7. Your rights
 
 You have the following rights over the way your personal data are processed.
 
