@@ -3,6 +3,15 @@
 This is a simple discord bot that will send a message to a channel in response to a few commands. Its primary motivation is to have updated nearl realtime images from multiple reliable sources for financial and economic news reporting. Focusing on finviz charts as a base of material and including other helpful tools.
 
 
+### Adding Bot to Discord Server 
+
+
+<div align="center"> 
+  <a href="/add">
+    <img src="https://img.shields.io/badge/for--the--badge-20232A.svg?logo=discord&logoColor=%7289DA&style=for-the-badge />
+  </a>
+</div>
+
 
 ### Commands
 
