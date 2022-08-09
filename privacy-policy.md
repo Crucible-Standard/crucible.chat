@@ -1,6 +1,22 @@
 # Bot Privacy Policy
 
-## 1. Introduction
+
+<details>
+  <summary>Click to expand!</summary>
+
+  <h2>Table of Contents</h2>
+    
+    <ol>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#information">Information we may collect about you</a></li>
+        <li><a href="#collecting">Collecting, processing and using personal data</a></li>
+        <li><a href="#processing">Why we collect information about you – purpose of processing</a></li>
+        <li><a href="#logs">Log files</a></li>
+        <li><a href="#sharing">Data sharing</a></li>
+    </ol>
+</details>
+
+<h2 id="Introduction">1. Introduction</h2>
 
 This Privacy Policy ("Privacy Policy") apply to the use of the service ("Service", "Bot", "CrucibleBot") provided by The Crucible Standard Organization (hereinafter also referred as “we” or “us”).
 
@@ -21,8 +37,7 @@ The Services may contain links to services owned and operated by third parties. 
 
 We may make changes to this Privacy Policy in the future. You should check this page from time to time to ensure you are aware of any changes. Where appropriate we may notify you of such changes.
 
-
-## 2. Information we may collect about you
+<h2 id="information">2. Information we may collect about you</h2>
 
 We collect and process the following information which may include your personal data.
 
@@ -30,39 +45,38 @@ Your Discord ID, Discord Username, Discord Server ID & Name, Discord Channel ID 
 
 We do not access or store emails or phone numbers for our Discord bot users.
 
-
-## 3. Collecting, processing and using personal data
+<h2 id="collecting">3. Collecting, processing and using personal data</h2>
 
 We only store and process your personal data when you have voluntarily supplied us with it such as installing CrucibleBot on your server or by interacting with it. Your personal data will only be disclosed or otherwise transmitted if this is necessary to implement the contract, render our Services or you have given your prior consent.
 
-
-## 4. Why we collect information about you – purpose of processing
+<h2 id="processing">4. Why we collect information about you – purpose of processing</h2>
 
 We will use information about you for delivering our Services to you under the terms of use agreed between us. The processing of information in this way is necessary for us to provide you the Service properly and to ensure the features function properly so that you have the best Service possible.
 
-## 5. Log files
+<h2 id="logs">5. Log files</h2>
 
 During every interaction with the Service, user data is store in protocol files, the so-called log files. The datasets stored here may contain such data as date and time of the interaction, ID and username of the interacting user, the command used, ID and name of the Discord Server in which the interaction took place as well as the ID and name of the Discord Channel the interaction took place in.
 
+<h2 id="sharing">6. Data sharing</h2>
 
-## 6. Data sharing
-
-We do NOT sell your personal data and we don’t provide it to anyone outside our organisation for any other purpose than the Service you subscribed for.
+Although our organization is a strong believer Sharing is in-fact Caring, we do not share that same philosophy with our datapolicy. We do NOT sell your personal data and we don’t provide it to anyone outside our organisation for any other purpose than the Service you subscribed for.
 
 Personnel, suppliers or subcontractors: We keep your information confidential, but may disclose it to our personnel, suppliers or subcontractors insofar as it is reasonably necessary for the purposes set out in this Privacy Policy. However, this is on the basis that they do not make independent use of the information, and have agreed to safeguard it.
 
 Required by law: In addition, we may disclose your information to the extent that we are required to do so by law (which may include to government bodies and law enforcement agencies); in connection with any legal proceedings or prospective legal proceedings; and in order to establish, exercise or defend our legal rights.
 
-
-## 7. Your rights
+<h2 id="rights">7. Your rights</h2>
 
 You have the following rights over the way your personal data are processed.
 
-To make a request, please let us know by sending an email to admin@crucible.news.
+To make a request, please let us know by sending an email to [admin@crucible.news](mailto:admin@crucible.news).
 
     You have the right to request a copy of the personal information we process about you and to have any inaccuracies corrected.
     You can ask for supplying, correcting or deleting personal information held about you.
     You can ask us to restrict, stop processing, or to delete your personal data.
+    
+    
+At any point you can also join our discord server and talk to our support team about any issues you may have. 
 
 
 
