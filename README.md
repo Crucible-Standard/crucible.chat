@@ -7,9 +7,11 @@ This is a simple discord bot that will send a message to a channel in response t
 
 
 <div align="center"> 
-  <a href="/add">
-    <img src="https://img.shields.io/badge/Add_To_Discord-20232A.svg?logo=discord&logoColor=%7289DA&style=for-the-badge" />
-  </a>
+  <p>
+    <a href="/add">
+      <img src="https://img.shields.io/badge/Add_To_Discord-20232A.svg?logo=discord&logoColor=%7289DA&style=for-the-badge" />
+    </a>
+  </p>
 </div>
 
 
@@ -26,6 +28,20 @@ Other Commands for fun:
 
 * `/wisdom` - Displays a random fortune / quote
 * `/moon` - Displays current moon phase
+
+
+## Support 
+
+<div align="center"> 
+  <p>
+    <a href="https://top.gg/servers/1004817181504180395/join">
+      <img src="https://img.shields.io/badge/Join_our_discord-20232A.svg?logo=discord&logoColor=%7289DA&style=for-the-badge" />
+    </a>
+  </p>
+  
+</div>
+
+
 
 <div align="center"> 
   <a href="/privacy-policy">Privacy Policy</a>
