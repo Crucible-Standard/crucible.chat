@@ -41,6 +41,8 @@ Other Commands for fun:
   
 </div>
 
+## Your Privacy is Important to Us
+
 
 
 <div align="center"> 
