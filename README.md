@@ -12,11 +12,15 @@ This is a simple discord bot that will send a message to a channel in response t
       <img src="https://img.shields.io/badge/Add_To_Discord-20232A.svg?logo=discord&logoColor=%7289DA&style=for-the-badge" />
     </a>
   </p>
+  <p>
+    <a href="https://top.gg/bot/999402528632483871"><img src="https://top.gg/api/widget/999402528632483871.svg"></a>
+  </p>
 </div>
 
 
 ### Commands
 
+* `/cbothelp` - Displays the bot's help message and support website link from config.
 * `/schart1 {symbol}` - a Different Daily chart
 * `/fvd {symbol}` -  Displays an image of the daily FinViz stock chart.
 * `/fvw {symbol}` -  Displays an image of the weekly FinViz stock chart.
@@ -28,6 +32,7 @@ Other Commands for fun:
 
 * `/wisdom` - Displays a random fortune / quote
 * `/moon` - Displays current moon phase
+
 
 
 ## Support 
