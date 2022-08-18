@@ -46,12 +46,4 @@ Other Commands for fun:
   
 </div>
 
-## Your Privacy is Important to Us
 
-
-
-<div align="center"> 
-  <a href="/privacy-policy">Privacy Policy</a>
-
-  <a href="/terms-of-service">Terms of Use</a>
-</div>
