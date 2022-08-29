@@ -1,1 +1,11 @@
 theme: jekyll-theme-tactile
+plugins:
+  - jekyll-seo-tag
+title: "crucible.chat - finance discord bot"
+tagline: "Crucible is a financial bot to query real time stock information directly into discord."
+description: "A Bot created by the Crucible Standard organization to bring rich financial information into discord chats"
+social:
+  name: Crucible Chat
+  links:
+    - https://github.com/Crucible-Standard
+url: crucible.chat
