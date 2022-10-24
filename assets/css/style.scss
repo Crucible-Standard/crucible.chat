@@ -1,0 +1,49 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/** Theme overrides for customization **/
+
+/** Default Crucible Page Theme **/
+$theme-default-primary:  	           #2F3A8F;
+$theme-default-secondary:             #FE7E6D;
+$theme-default-trinary: 		           #CCD1E4;
+$theme-default-accent:  	             #FE7E6D;
+$theme-default-background:	           #FDFAF5;
+$theme-default-text-color:            #323232;
+$theme-default-link-color:            #FE7E6D;
+$theme-default-hlink-color:           #CCD1E4;
+$theme-default-vlink-color:           #CCD1E4;
+
+
+body, html, #container {
+  font-family: 'Didot', 'Helvetica Neue', Helvetica, Arial, serif;
+	text-shadow: none;
+	background: $theme-default-background;
+	background-color: $theme-default-background;
+	color: $theme-default-text-color;
+	min-height: 595px;
+}
+
+h1, h2, h3, h4, h5	{
+	color: $theme-default-text-color;
+}
+
+footer {
+	background: $theme-default-background;
+	ul {
+		li {
+			display: inline-block;
+			list-style: none;
+			margin-left: 1rem;
+			padding-left: 0;
+		}
+	}
+	
+	a {
+		color: $theme-default-link-color;
+	}
+}
+
+
