@@ -26,6 +26,37 @@ body, html, #container {
   min-height: 595px;
 }
 
+a, a:visited {
+  color: $theme-default-link-color;
+}
+
+a:hover {
+  color: $theme-default-hlink-color;
+}
+
+a:active {
+  color: $theme-default-vlink-color;
+}
+
+header {
+  background: $theme-default-primary none repeat scroll 0 0;
+  width: 100%;
+  border-top: $theme-default-secondary 3px solid;
+  height: 50px;
+  ul {
+    li {
+      display: inline-block;
+      list-style: none;
+      margin-left: 1rem;
+      padding-left: 0;
+    }
+  }
+  a {
+    color: $theme-default-trinary;
+  }
+
+}
+
 h1, h2, h3, h4, h5  {
   color: $theme-default-text-color;
 }
@@ -39,10 +70,6 @@ footer {
       margin-left: 1rem;
       padding-left: 0;
     }
-  }
-
-  a {
-    color: $theme-default-link-color;
   }
 }
 

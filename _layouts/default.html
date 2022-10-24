@@ -27,22 +27,29 @@
     <div id="container">
       <div class="inner">
         <header>
+          <a href="{{ '/' | relative_url }}" class="logo">
+            <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="Crucible Logo">
+          </a>
+          <nav>
+            <ul>
+              <li><a href="{{ '/' | relative_url }}">Home</a></li>
+            </ul>
+          </nav>
         </header>
         <section id="main_content">
           {{ content }}
         </section>
-
         <footer>
-					<div align="center">
-						<div class="horizonal-break"></div>
+          <div align="center">
+            <div class="horizonal-break"></div>
             <hr />
-						<ul>
-							<li><a href="/docs/code_of_conduct">Code of Conduct</a></li>
-							<li><a href="/docs/privacy-policy">Privacy Policy</a></li>
-							<li><a href="/docs/terms-of-service">Terms of Use</a></li>
-							<li><a href="https://crucible.news/about">© 2022 crucible.news</a></li>
-						</ul>
-					</div>
+            <ul>
+              <li><a href="/docs/code_of_conduct">Code of Conduct</a></li>
+              <li><a href="/docs/privacy-policy">Privacy Policy</a></li>
+              <li><a href="/docs/terms-of-service">Terms of Use</a></li>
+              <li><a href="https://crucible.news/about">© 2022 crucible.news</a></li>
+            </ul>
+          </div>
         </footer>
       </div>
     </div>
